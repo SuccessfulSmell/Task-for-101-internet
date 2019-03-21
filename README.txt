@@ -8,4 +8,11 @@ That's why needs to perform actions:
    2)chromedriver.exe(or webdriver.exe)
      You can find it in git directory or download from
      https://selenium-python.readthedocs.io/installation.html
+     
+The results of the program should be:
+...
+----------------------------------------------------------------------
+Ran 3 tests in 21.028s
+
+OK
 
