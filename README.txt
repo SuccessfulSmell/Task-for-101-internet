@@ -1,4 +1,3 @@
-'''
 TestCases for https://www.amazon.com.au/
 Recommended python version: python 3.6
 
